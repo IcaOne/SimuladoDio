@@ -1,0 +1,13 @@
+
+.bg-red{
+    background-color: rgb(46, 11, 11);
+    color: rgb(255, 255, 255);
+}
+
+.nav-link, .navbar-brand{
+    color: rgb(255, 255, 255);
+}
+
+.nav-link:hover, .navbar-brand:hover{
+    color: rgb(232, 255, 25);
+}
